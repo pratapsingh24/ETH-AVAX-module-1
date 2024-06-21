@@ -1,6 +1,5 @@
 # Functions and Errors handling contract
 This Solidity program is a simple "Fund Transaction" program that demonstrates the knowledge of error handeling(revert, require, assert) functionality in Solidity programming language. 
-The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
 
 # Description
 This is the program to demosatrate the use of revert, require, assert in solidity.
